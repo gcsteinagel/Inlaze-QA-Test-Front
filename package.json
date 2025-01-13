@@ -1,0 +1,24 @@
+{
+  "name": "inlaze-qa-test-front",
+  "version": "1.0.0",
+  "description": "Casos de prueba para registros de usuarios e inicio de sesión",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chrome-test": "cypress run --spec C:/Users/chris/Documents/cypress-projects/inlaze-qa-test-front/cypress/e2e/user-login/case-4.cy.js --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcsteinagel/inlaze-qa-test-front.git"
+  },
+  "author": "Christopher Steinagel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcsteinagel/inlaze-qa-test-front/issues"
+  },
+  "homepage": "https://github.com/gcsteinagel/inlaze-qa-test-front#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "cypress": "^13.17.0"
+  }
+}

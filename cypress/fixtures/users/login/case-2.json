@@ -1,0 +1,58 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Mónica Valencia",
+                        "email": "monica.valencia@email.com",
+                        "password": "T9t!P7x@2Lq&R",
+                        "repeatPassword": "T9t!P7x@2Lq&R"
+                    },
+                    "login": {
+                        "email": " ",
+                        "password": " "
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Pedro Fuentes",
+                        "email": "pedro.fuentes@email.com",
+                        "password": "L2n$P9x@7Q^Tw",
+                        "repeatPassword": "L2n$P9x@7Q^Tw"
+                    },
+                    "login": {
+                        "email": " ",
+                        "password": "L2n$P9x@7Q^Tw"
+                    }
+                } 
+            ]
+        },
+        {
+            "number": 3,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Sebastián León",
+                        "email": "sebatian.leon@email.com",
+                        "password": "F9x&P7k@2Lq^T",
+                        "repeatPassword": "F9x&P7k@2Lq^T"
+                    },
+                    "login": {
+                        "email": "sebatian.leon@email.com",
+                        "password": " "
+                    }
+                } 
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Elena",
+                        "email": "elena.morales@email.com",
+                        "password": "Wq7$Lm&9R1@Xv",
+                        "repeatPassword": "Wq7$Lm&9R1@Xv"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Sofía Torres García",
+                        "email": "sofia.torres@email.com",
+                        "password": "L2k$T9q@Xj6%R",
+                        "repeatPassword": "L2k$T9q@Xj6%R"
+                    }
+                } 
+            ]
+        }
+    ]
+}

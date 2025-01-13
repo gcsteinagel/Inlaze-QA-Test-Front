@@ -1,0 +1,18 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Carlos Pérez",
+                        "email": "carlos.perez@email.com",
+                        "password": "Yq5&P1v@Wn7#x",
+                        "repeatPassword": "Yq5&P1v@Wn7#x"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Enrique Cárdenas",
+                        "email": "enrique.cardenas@email.com",
+                        "password": "T7!P9n@8k&Rw",
+                        "repeatPassword": "T7!P9n@8k&Rw"
+                    },
+                    "login": {
+                        "email": "enrique.cardenas@email.com",
+                        "password": "T7!P9n@8k&Rw"
+                    }
+                }
+            ]
+        }
+    ]
+}

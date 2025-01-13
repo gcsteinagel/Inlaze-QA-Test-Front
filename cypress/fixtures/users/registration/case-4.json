@@ -1,0 +1,116 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Daniela Ortega",
+                        "email": "daniela.ortega@email.com",
+                        "password": "Hx^Rk@Pw&L",
+                        "repeatPassword": "Hx^Rk@Pw&L"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Francisco Márquez",
+                        "email": "francisco.marquez@email.com",
+                        "password": "Tq7P9n2kRx",
+                        "repeatPassword": "Tq7P9n2kRx"
+                    }
+                } 
+            ]
+        },
+        {
+            "number": 3,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Natalia Medina",
+                        "email": "natalia.medina@email.com",
+                        "password": "8t$9w@2^",
+                        "repeatPassword": "8t$9w@2^"
+                    }
+                } 
+            ]
+        },
+        {
+            "number": 4,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Isabel Vega",
+                        "email": "isabel.vega@email.com",
+                        "password": "F5!P9@7&R",
+                        "repeatPassword": "F5!P9@7&R"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Ricardo Soto",
+                        "email": "ricardo.soto@email.com",
+                        "password": "T2x^Q7k@",
+                        "repeatPassword": "T2x^Q7k@"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Fernanda Delgado",
+                        "email": "fernanda.delgado@email.com",
+                        "password": "Y9x&P7k@2Lq^T",
+                        "repeatPassword": "Y9x&P7k@2Lq^T"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Oscar Reyes",
+                        "email": "oscar.reyes@email.com",
+                        "password": "L2n$P9x",
+                        "repeatPassword": "L2n$P9x"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Julia Luna",
+                        "email": "julia.luna@email.com",
+                        "password": "L8x^Qw@9&Kp1#Tv",
+                        "repeatPassword": "L8x^Qw@9&Kp1#Tv"
+                    }
+                }
+            ]
+        }
+    ]
+}

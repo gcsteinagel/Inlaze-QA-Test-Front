@@ -1,0 +1,32 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": " ",
+                        "email": " ",
+                        "password": " ",
+                        "repeatPassword": " "
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": " ",
+                        "email": "hugo.salazar@email.com",
+                        "password": "V7t&P9x@2Lw^Q",
+                        "repeatPassword": "V7t&P9x@2Lw^Q"
+                    }
+                } 
+            ]
+        }
+    ]
+}

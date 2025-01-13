@@ -1,0 +1,18 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Patricia Mendoza",
+                        "email": "patricia.mendoza@email.com",
+                        "password": "L2x^Q9w@7n&Pk",
+                        "repeatPassword": "L2k$T9q@Xj6%R"
+                    }
+                }
+            ]
+        }
+    ]
+}

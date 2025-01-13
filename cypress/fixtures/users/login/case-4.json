@@ -1,0 +1,22 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Lucía Estrada",
+                        "email": "lucia.estrada@email.com",
+                        "password": "L2x^Q9w@7n&Pk",
+                        "repeatPassword": "L2x^Q9w@7n&Pk"
+                    },
+                    "login": {
+                        "email": "lucia.estrada@email.com",
+                        "password": "L2x^Q9w@7n&Pk"
+                    }
+                }
+            ]
+        }
+    ]
+}

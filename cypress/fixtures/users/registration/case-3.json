@@ -1,0 +1,69 @@
+{
+    "userScenario": [
+        {
+            "number": 1,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Javier Castro",
+                        "email": "JAVIER.CASTRO@email.com",
+                        "password": "Hn9^L2x@7Pw$Q",
+                        "repeatPassword": "Hn9^L2x@7Pw$Q"
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Paula Herrera",
+                        "email": "paula.herrera.lopez@email.com",
+                        "password": "F3p!X7q@L9R^T",
+                        "repeatPassword": "F3p!X7q@L9R^T"
+                    }
+                } 
+            ]
+        },
+        {
+            "number": 3,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Miguel Vázquez",
+                        "email": "miguel.vazquez@email..com",
+                        "password": "T7x^Qw9@2k&P1",
+                        "repeatPassword": "T7x^Qw9@2k&P1"
+                    }
+                } 
+            ]
+        },
+        {
+            "number": 4,
+            "users": [
+                {
+                    "userNumber": 1,
+                    "registration": {
+                        "fullName": "Gabriela Ríos",
+                        "email": "gabriela.rios@email.com",
+                        "password": "Y7x&P1k@L9Rt$",
+                        "repeatPassword": "Y7x&P1k@L9Rt$"
+                    }
+                },
+                {
+                    "userNumber": 2,
+                    "registration": {
+                        "fullName": "Andrea Silva",
+                        "email": "gabriela.rios@email.com",
+                        "password": "Y2n$P9x@7Rt^L",
+                        "repeatPassword": "Y2n$P9x@7Rt^L"
+                    }
+                } 
+            ]
+        }
+    ]
+}
